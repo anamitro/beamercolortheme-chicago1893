@@ -7,7 +7,9 @@ Colortheme for Beamer (LaTeX) inspired by Swami Vivekananda's attire while in Ch
 - Download and ave the .sty file in the directory where your .tex file is saved,
 - Alternatively, for Linux-based distros if you're using Texlive, save the file with root permission in /usr/share/texlive/texmf-dist/tex/latex/beamercolortheme-chicago1893
   > $ cd /usr/share/texlive/texmf-dist/tex/latex
+  >
   > $ mkdir beamercolortheme-chicago1893
+  >
   > $ cd /usr/share/texlive/texmf-dist/tex/latex/beamercolortheme-chicago1893
   
 Write in your .tex file
