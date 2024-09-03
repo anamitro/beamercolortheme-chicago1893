@@ -4,7 +4,8 @@ Colortheme for Beamer (LaTeX) inspired by Swami Vivekananda's attire while in Ch
 ![Swami Vivekananda](sv3.png)
 
 ## Use
-- Download and ave the .sty file in the directory where your .tex file is saved,
+- [**GitHub Repository**](https://github.com/anamitro/beamercolortheme-chicago1893)
+- Download and save the .sty file in the directory where your .tex file is saved,
 - Alternatively, for Linux-based distros if you're using Texlive, save the file with root permission in /usr/share/texlive/texmf-dist/tex/latex/beamercolortheme-chicago1893
   
   > $ cd /usr/share/texlive/texmf-dist/tex/latex
@@ -26,4 +27,4 @@ Colortheme for Beamer (LaTeX) inspired by Swami Vivekananda's attire while in Ch
 
 ___________
 
-Made by Anamitro Biswas. For suggestions, email anamitroappu@gmail.com. Free for anyone to use and modify, LGPL v2.
+Made by [Anamitro Biswas](https://anamitro.github.io). For suggestions, email anamitroappu@gmail.com. Free for anyone to use and modify, GPL 2.0 license.
