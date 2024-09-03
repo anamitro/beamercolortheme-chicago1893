@@ -1,13 +1,19 @@
 # beamercolortheme-chicago1893
-Colortheme for Beamer (LaTeX) inspired by Swami Vivekananda's attire while in Chicago during September 1893.<br />
+Colortheme for Beamer (LaTeX) inspired by Swami Vivekananda's attire while in Chicago during September 1893. Like his teachings, his attire had been an incredible fusion of the East and the West, and its color depicting his burning commitment for the cause.
 
-To use,<br />
-either<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) Save the .sty file in the directory where your .tex file is saved,<br />
-or<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) For Linux-based distros if you're using texlive, save the file with root permission in /usr/share/texlive/texmf-dist/tex/latex/beamercolortheme-chicago1893; you have to create folder `beamercolortheme-chicago1893' in /latex<br />
+![Swami Vivekananda](sv3.jpg)
+
+## Use
+- Download and ave the .sty file in the directory where your .tex file is saved,
+- Alternatively, for Linux-based distros if you're using Texlive, save the file with root permission in /usr/share/texlive/texmf-dist/tex/latex/beamercolortheme-chicago1893
+  > $ cd /usr/share/texlive/texmf-dist/tex/latex
+  > $ mkdir beamercolortheme-chicago1893
+  > $ cd /usr/share/texlive/texmf-dist/tex/latex/beamercolortheme-chicago1893
   
-Write in your .tex file before \begin{document}<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\usecolortheme{chicago1893}<br />
+Write in your .tex file
+> \usecolortheme{chicago1893}
+before
+> \begin{document}
 
-See more about Swami Vivekananda and his works for the Indian Renaissance in https://www.britannica.com/biography/Vivekananda or https://belurmath.org/swami-vivekananda/ or https://en.wikipedia.org/wiki/Swami_Vivekananda
+## Read more about the pioneer of Indian Renaissance:
+[https://belurmath.org/swami-vivekananda/]([https://belurmath.org/swami-vivekananda/])
