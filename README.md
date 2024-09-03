@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5aac383a-fc91-4987-bd2a-3eb021a3567d)# beamercolortheme-chicago1893
+# beamercolortheme-chicago1893
 Colortheme for Beamer (LaTeX) inspired by Swami Vivekananda's attire while in Chicago during September 1893. Like his teachings, his attire had been an incredible fusion of the East and the West, and its color depicting his burning commitment for the cause.
 
 ![Swami Vivekananda](sv3.png)
