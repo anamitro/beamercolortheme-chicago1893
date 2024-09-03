@@ -14,7 +14,9 @@ Colortheme for Beamer (LaTeX) inspired by Swami Vivekananda's attire while in Ch
   
 Write in your .tex file
 > \usecolortheme{chicago1893}
+
 before
+
 > \begin{document}
 
 ## Read more about the pioneer of Indian Renaissance:
