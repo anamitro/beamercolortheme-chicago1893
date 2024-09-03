@@ -23,3 +23,7 @@ Colortheme for Beamer (LaTeX) inspired by Swami Vivekananda's attire while in Ch
 
 ## Read more about the pioneer of Indian Renaissance:
 [https://belurmath.org/swami-vivekananda/](https://belurmath.org/swami-vivekananda/)
+
+___________
+
+Made by Anamitro Biswas. For suggestions, email anamitroappu@gmail.com. Free for anyone to use and modify, LGPL v2.
