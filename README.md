@@ -30,3 +30,5 @@ Like his teachings, his attire had been an incredible fusion of the East and the
 ___________
 
 Made by [Anamitro Biswas](https://anamitro.github.io). For suggestions, email anamitroappu@gmail.com. GPL 2.0.
+
+[**Homepage**](https://anamitro.github.io)
