@@ -1,5 +1,7 @@
 # beamercolortheme-chicago1893
 
+[![Static Badge](https://img.shields.io/badge/1893-rgb(255%2C%20153%2C%2051)?label=chicago&labelColor=rgb(128%2C%200%2C%200))]
+
 **Colortheme for Beamer (LaTeX) inspired by Swami Vivekananda's attire while in Chicago during September 1893.**
 
 <img src="sv3.png" alt="drawing" width="300"/>
