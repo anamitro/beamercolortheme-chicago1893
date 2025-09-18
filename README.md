@@ -26,6 +26,8 @@ Like his teachings, his attire had been an incredible fusion of the East and the
 
   > \begin{document}
 
+[<kbd>![](icons/file_present.svg)![](https://img.shields.io/badge/An_Example-red?style=for-the-badge)</kbd>](https://anamitro.github.io/files/talks/crest_anamitro_davenport_r.pdf)
+
 [![](icons/file_present.svg)![](https://img.shields.io/badge/An_Example-red?style=for-the-badge)](https://anamitro.github.io/files/talks/crest_anamitro_davenport_r.pdf)
 
 ## Read more about the pioneer of Indian Renaissance:
