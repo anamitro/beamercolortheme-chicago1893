@@ -36,4 +36,4 @@ ___________
 
 Made by [Anamitro Biswas](https://anamitro.github.io). For suggestions, email anamitroappu@gmail.com. GPL 2.0.
 
-[<kbd>![](icons/homepage.svg)![](https://img.shields.io/badge/My_homepage-red?style=for-the-badge)</kbd>](https://anamitro.github.io/)
+[<kbd>![](icons/homepage.svg)![](https://img.shields.io/badge/My_homepage?style=for-the-badge)</kbd>](https://anamitro.github.io/)
