@@ -35,4 +35,4 @@ ___________
 
 Made by [Anamitro Biswas](https://anamitro.github.io). For suggestions, email anamitroappu@gmail.com. GPL 2.0.
 
-[![](https://img.shields.io/badge/Homepage-red?style=for-the-badge)](https://anamitro.github.io/)
+[![](homepage.svg)![](https://img.shields.io/badge/My_homepage-red?style=for-the-badge)](https://anamitro.github.io/)
