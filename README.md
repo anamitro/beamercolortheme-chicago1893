@@ -29,7 +29,7 @@ Like his teachings, his attire had been an incredible fusion of the East and the
 [![](icons/file_present.svg)![](https://img.shields.io/badge/An_Example-red?style=for-the-badge)](https://anamitro.github.io/files/talks/crest_anamitro_davenport_r.pdf)
 
 ## Read more about the pioneer of Indian Renaissance:
-[![](icons/book_ribbon.svg)/](https://belurmath.org/swami-vivekananda/)
+[![](icons/book_ribbon.svg)](https://belurmath.org/swami-vivekananda/)
 
 ___________
 
