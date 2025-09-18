@@ -28,13 +28,12 @@ Like his teachings, his attire had been an incredible fusion of the East and the
 
 [<kbd>![](icons/file_present.svg)![](https://img.shields.io/badge/An_Example-red?style=for-the-badge)</kbd>](https://anamitro.github.io/files/talks/crest_anamitro_davenport_r.pdf)
 
-[![](icons/file_present.svg)![](https://img.shields.io/badge/An_Example-red?style=for-the-badge)](https://anamitro.github.io/files/talks/crest_anamitro_davenport_r.pdf)
 
 ## Read more about the pioneer of Indian Renaissance:
-[![](icons/book_ribbon.svg)](https://belurmath.org/swami-vivekananda/)
+[<kbd>![](icons/book_ribbon.svg)</kbd>](https://belurmath.org/swami-vivekananda/)
 
 ___________
 
 Made by [Anamitro Biswas](https://anamitro.github.io). For suggestions, email anamitroappu@gmail.com. GPL 2.0.
 
-[![](icons/homepage.svg)![](https://img.shields.io/badge/My_homepage-red?style=for-the-badge)](https://anamitro.github.io/)
+[<kbd>![](icons/homepage.svg)![](https://img.shields.io/badge/My_homepage-red?style=for-the-badge)</kbd>](https://anamitro.github.io/)
