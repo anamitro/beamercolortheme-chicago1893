@@ -36,4 +36,4 @@ ___________
 
 Made by [Anamitro Biswas](https://anamitro.github.io). For suggestions, email anamitroappu@gmail.com. GPL 2.0.
 
-[<kbd>![](icons/homepage.svg)![](https://img.shields.io/badge/My_homepage-red.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjMWYxZjFmIj48cGF0aCBkPSJNMjQwLTIwMGgxMjB2LTI0MGgyNDB2MjQwaDEyMHYtMzYwTDQ4MC03NDAgMjQwLTU2MHYzNjBabS04MCA4MHYtNDgwbDMyMC0yNDAgMzIwIDI0MHY0ODBINTIwdi0yNDBoLTgwdjI0MEgxNjBabTMyMC0zNTBaIi8+PC9zdmc+?style=for-the-badge)</kbd>](https://anamitro.github.io/)
+[<kbd>![](icons/homepage.svg)![](https://img.shields.io/badge/My_homepage-red.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjMWYxZjFmIj48cGF0aCBkPSJNMjQwLTIwMGgxMjB2LTI0MGgyNDB2MjQwaDEyMHYtMzYwTDQ4MC03NDAgMjQwLTU2MHYzNjBabS04MCA4MHYtNDgwbDMyMC0yNDAgMzIwIDI0MHY0ODBINTIwdi0yNDBoLTgwdjI0MEgxNjBabTMyMC0zNTBaIi8+PC9zdmc+)</kbd>](https://anamitro.github.io/)
