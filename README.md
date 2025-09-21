@@ -30,7 +30,7 @@ Like his teachings, his attire had been an incredible fusion of the East and the
 
 
 ## Read more about the pioneer of Indian Renaissance:
-[<kbd>![](icons/book_ribbon.svg)</kbd>](https://belurmath.org/swami-vivekananda/)
+[<kbd>![](icons/book_ribbon.svg)</kbd>](https://biographies.rkmm.org/s/sb/m/holy-trio-and-direct-disciples/a/swami-vivekananda)
 
 ___________
 
