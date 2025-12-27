@@ -34,6 +34,8 @@ Like his teachings, his attire had been an incredible fusion of the East and the
 
 ___________
 
-Made by [Anamitro Biswas](https://anamitro.github.io). For suggestions, email anamitroappu@gmail.com. GPL 2.0.
+Made by [Anamitro Biswas](https://anamitro.github.io). For suggestions, email anamitroappu@gmail.com.
+
+License: GPL 2.0.
 
 [<kbd>![](icons/homepage.svg)![](https://img.shields.io/badge/My_homepage-red?style=for-the-badge)</kbd>](https://anamitro.github.io/)
